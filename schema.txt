@@ -1,0 +1,18 @@
+CREATE TABLE [StudentTable] (
+    [Id] uniqueidentifier NOT NULL,
+    [Name] nvarchar(max) NOT NULL,
+    [Gender] int NOT NULL,
+    [DOB] datetime2 NOT NULL,
+    [ClassId] int NOT NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    [ModifiedAt] datetime2 NOT NULL,
+    CONSTRAINT [PK_StudentTable] PRIMARY KEY ([Id])
+);
+
+CREATE TABLE [ClassTable] (
+    [Id] int NOT NULL IDENTITY,
+    [Name] nvarchar(max) NOT NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    [ModifiedAt] datetime2 NOT NULL,
+    CONSTRAINT [PK_ClassTable] PRIMARY KEY ([Id])
+);

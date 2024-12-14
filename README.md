@@ -17,4 +17,10 @@
 
 
 Now launching the ASP.Net Core project should be enough to run everything.
-	
+
+
+![image](https://github.com/user-attachments/assets/022b8926-8deb-4e25-b6da-e6d8ced179da)
+![image](https://github.com/user-attachments/assets/143fde4a-7dbc-4ea6-80bc-ad97675ea65f)
+![image](https://github.com/user-attachments/assets/8a3696af-dd6d-44ba-9fc5-85b3b506b140)
+![image](https://github.com/user-attachments/assets/63c5709d-923a-44d0-b661-b8fed8a9a2a0)
+
